@@ -14,6 +14,8 @@ fun solve()
 {
     print(" hi, this is inline function ")
     return x+y
+
+
 }
 fun finall(a:Int,b:Int,add:(Int,Int)->Int):Int
 {
