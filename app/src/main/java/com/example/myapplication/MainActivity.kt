@@ -12,6 +12,9 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+
+
+
     override fun onStart() {
         super.onStart()
         Log.d("start","start has been started")
